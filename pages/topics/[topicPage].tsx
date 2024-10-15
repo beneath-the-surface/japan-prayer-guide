@@ -13,6 +13,7 @@ import CollapseBlock from "../../components/topic/CollapseBlock"
 import { PhotosWrapper } from "../../components/GalleryComponents/PhotosWrapper/PhotosWrapper"
 import PrayerResponse from "../../components/topic/PrayerResponse"
 import { StickyNav, Tab } from "../../components/topic/StickyNav"
+import { Event, Timeline } from "../../components/Timeline/Timeline"
 
 export const getStaticPaths: GetStaticPaths = async () => {
     const paths = getTopicPageIds()
@@ -77,6 +78,26 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
     const heroPhoto: string = t("heroPhoto")
     const heroFocus: string = t("heroFocus")
 
+    const events: Event[] = [
+        {
+            year: 1500,
+            title: 'Title of Era',
+            description: '',
+            images: [],
+        },
+        {
+            year: 1550,
+            title: 'Title of event',
+            description: "“Can I ask what you believe in?” Carlos asked his Japanese friend Takeshi after watching him pray at the Shinto shrine. It’s hard to explain,” Takeshi replied slowly. “It’s been part of my life since I was young.”",
+            images: ['image1.jpg', 'image2.jpg', 'image3.jpg'],
+        },
+        {
+            year: 1570,
+            title: 'Title of event',
+            description: "“Can I ask what you believe in?” Carlos asked his Japanese friend Takeshi after watching him pray at the Shinto shrine. It’s hard to explain,” Takeshi replied slowly. “It’s been part of my life since I was young.”",
+            images: ['image4.jpg'],
+        },
+    ];
     return (
         <>
             <Head>
@@ -150,8 +171,6 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
                             />
                         </CollapseBlock>
                     )}
-                    {/* Timeline */}
-                    {timeline && <h1>timeline</h1>}
 
                     {/* Infographics Placeholder */}
                     {/* <CollapseBlock title={factsLabel} startOpened={true} galleryType={galleryType}>
@@ -166,6 +185,14 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
                     </CollapseBlock> */}
                     <Container className="bottom-spacing">
                         <hr />
+                    </Container>
+                </Container>
+                {/* Timeline */}
+                <Container fluid className="timeline-container">
+                    <Container className="main-section-container">
+                        {timeline && (
+                            <Timeline events={events} />
+                        )}
                     </Container>
                 </Container>
 

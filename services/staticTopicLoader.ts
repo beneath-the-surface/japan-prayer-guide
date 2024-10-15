@@ -44,7 +44,6 @@ function getTopicPageIds() {
             })
         })
     })
-
     return paths
 }
 

@@ -36,7 +36,7 @@
     "blockOrder": [6, 7, 6, 6],
     "timeline": [
       {"title": "Title of Era", "type": "era"},
-      {"title": "Title of event", "type": "event", "photos": []}
+      {"title": "Title of event", "type": "event", "photos": [], "style": "mosaic"}
     ],
     "videoSrc": "https://player.vimeo.com/video/921387464"
 }

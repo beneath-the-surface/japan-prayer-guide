@@ -27,7 +27,7 @@
         { "label": "Immigration and foreign nationals", "link": "immigration-and-foreign-nationals", "disabled": true },
         { "label": "Natural disasters", "link": "natural-disasters", "disabled": true },
         { "label": "Technology and media", "link": "technology-and-media", "disabled": true },
-        { "label": "Workplace pressure", "link": "workplace-pressure", "disabled": true },
+        { "label": "Workplace pressure", "link": "workplace-pressure", "disabled": false },
         { "label": "Family life", "link": "family-life", "disabled": true },
         { "label": "Youth and young adults", "link": "youth-and-young-adults", "disabled": true }
     ],
@@ -45,6 +45,6 @@
         { "label": "Missionary life", "link": "missionary-life", "disabled": true },
         { "label": "Unity in Christ", "link": "unity-in-christ", "disabled": true },
         { "label": "Japanese mission movement", "link": "japanese-mission-movement", "disabled": true },
-        { "label": "Prayer for spiritual breakthrough", "link": "prayer-for-spiritual-breakthrough", "disabled": true }
+        { "label": "Prayer for spiritual breakthrough", "link": "prayer-for-spiritual-breakthrough", "disabled": false }
     ]
 }
