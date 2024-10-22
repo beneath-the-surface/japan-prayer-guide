@@ -39,7 +39,7 @@ export default function RelatedContent({ topicTrans }: relatedProps) {
     ]
 
     const topics: string[] = topicTrans("related.labels", { returnObjects: true })
-    // const links: string[] = topicTrans("related.links", { returnObjects: true })
+    const links: string[] = topicTrans("related.links", { returnObjects: true })
     const thumbnails: string[] = topicTrans("related.thumbs", { returnObjects: true })
 
     const onClickPrev = () => {
@@ -79,11 +79,9 @@ export default function RelatedContent({ topicTrans }: relatedProps) {
                         key={idx + topic}
                         className="d-flex flex-column align-items-center text-decoration-none py-1 px-0"
                         locale={i18n.language}
-                        // href={links[idx]}
-                        // remove bottom after conference. Uncomment top
-                        href={"#"}
+                        href={links[idx]}
                     >
-                        <Card className={"related-topic-card"} style={{ cursor: "not-allowed" }}>
+                        <Card className={"related-topic-card"}>
                             <Card.Body className="m-0 p-0">
                                 <Image
                                     src={thumbnails[idx]}

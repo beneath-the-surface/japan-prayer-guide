@@ -14,7 +14,7 @@ import { PhotosWrapper } from "../../components/GalleryComponents/PhotosWrapper/
 import PrayerResponse from "../../components/topic/PrayerResponse/PrayerResponse"
 import { StickyNav, Tab } from "../../components/topic/StickyNav/StickyNav"
 import RelatedContent from "../../components/topic/RelatedContent/RelatedContent"
-// import { ReferencesSection } from "../../components/topic/References/References"
+import { ReferencesSection } from "../../components/topic/References/References"
 
 export const getStaticPaths: GetStaticPaths = async () => {
     const paths = getTopicPageIds()
@@ -66,7 +66,7 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
     const navTabs: Tab[] = topicCommon("nav", { returnObjects: true })
 
     const galleryLabel: string = topicCommon("galleryLabel")
-    // const factsLabel: string = topicCommon("factsLabel")
+    const factsLabel: string = topicCommon("factsLabel")
     const galleryClickInstructions: string = topicCommon("galleryClickInstructions")
     const galleryImageText: string = topicCommon("galleryImageText")
     const localeImages: any[] = t("photos", { returnObjects: true })
@@ -81,9 +81,9 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
 
     const quote: string = t("quote.content")
 
-    // const infographicDesktop: string = t("infographic.desktop")
-    // const infographicTablet: string = t("infographic.tablet")
-    // const infographicMobile: string = t("infographic.mobile")
+    const infographicDesktop: string = t("infographic.desktop")
+    const infographicTablet: string = t("infographic.tablet")
+    const infographicMobile: string = t("infographic.mobile")
 
     const previousText: string = topicCommon("previousTopic")
     const nextText: string = topicCommon("nextTopic")
@@ -168,7 +168,7 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
 
                     {/* Infographics: Uncomment after conference */}
 
-                    {/* <CollapseBlock title={factsLabel} startOpened={true} galleryType={"infographic"}>
+                    <CollapseBlock title={factsLabel} startOpened={true} galleryType={"infographic"}>
                         <Container className="mt-3 d-flex justify-content-center px-0">
                             <Image className="d-none d-xl-block w-100" src={infographicDesktop} alt="infographic" />
                             <Image
@@ -182,7 +182,7 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
                     <Container className="">
                         <hr />
                         <ReferencesSection />
-                    </Container> */}
+                    </Container>
                     <Container className={"bottom-spacing"}></Container>
                 </Container>
 
