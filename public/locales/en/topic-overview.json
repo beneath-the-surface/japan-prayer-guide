@@ -11,12 +11,12 @@
     "churchHeading": "Church and mission",
     "cultureTopics": [
         { "label": "Popular religious practices", "link": "popular-religious-practices", "disabled": false },
-        { "label": "Japanese views of Chrisianity", "link": "japanese-views-of-chrisianity", "disabled": true },
+        { "label": "Japanese views of Chrisianity", "link": "japanese-views-of-christianity", "disabled": false },
         { "label": "Japanese culture and Christianity", "link": "japanese-culture-and-christianity", "disabled": true },
         { "label": "Ancestor veneration", "link": "ancestor-veneration", "disabled": false },
-        { "label": "Harmony", "link": "harmony", "disabled": true },
+        { "label": "Harmony", "link": "harmony", "disabled": false },
         { "label": "Social conformity", "link": "social-conformity", "disabled": false },
-        { "label": "Self-reliance and materialism", "link": "self-reliance-and-materialism", "disabled": true },
+        { "label": "Self-reliance and materialism", "link": "self-reliance-and-materialism", "disabled": false },
         { "label": "Mental and emotional health", "link": "mental-and-emotional-health", "disabled": false },
         { "label": "Aging society", "link": "aging-society", "disabled": true },
         {
@@ -29,7 +29,7 @@
         { "label": "Technology and media", "link": "technology-and-media", "disabled": true },
         { "label": "Workplace pressure", "link": "workplace-pressure", "disabled": true },
         { "label": "Family life", "link": "family-life", "disabled": true },
-        { "label": "Youth and young adults", "link": "youth-and-young-adults", "disabled": true }
+        { "label": "Youth and young adults", "link": "youth-and-young-adults", "disabled": false }
     ],
     "churchTopics": [
         { "label": "Struggling churches", "link": "struggling-churches", "disabled": true },

@@ -21,87 +21,95 @@
     "downloads": {},
     "related": {
         "labels": ["Social conformity", "Mental and emotional health", "Workplace pressure"],
-        "links": ["/topics/social-conformity", "/topics/mental-and-emotional-health", "/topics/workplace-pressure"]
+        "links": ["/topics/social-conformity", "/topics/mental-and-emotional-health", "/topics/workplace-pressure"],
+        "thumbs": [
+            "/photos/topic-nav/culture/social-conformity.png",
+            "/photos/topic-nav/culture/mental-and-emotional-health.png",
+            "/photos/topic-nav/culture/workplace-pressure.png"
+        ]
     },
-    "heroPhoto": "/photos/topics/topic1/TP01-Hero.jpg",
-    "heroFocus": "20% 50%",
+    "heroPhoto": "/photos/topics/topic7/TP07-Hero.jpg",
+    "heroFocus": "60% 0%",
     "photos": [
         {
-            "src": "/photos/topics/topic1/TP01-Album-01.jpg",
-            "title": "A large crowd of visitors at a prominent shrine in Kyoto (Fushimi Inari Taisha) on New Year's Day."
+            "src": "/photos/topics/topic7/TP07-Album-01.jpg",
+            "title": "A student with her <i>randoseru</i> (standard elementary school backpack) and other bags, walking in Tokyo. It is common to see students commuting by themselves to school and after-school activities, even from a young age."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-02.jpg",
-            "title": "A gate at a Shinto shrine, called <i>torii</i>. <i>Torii</i> can be found at many places in Japan: city streets, staircases, forests, rivers, fields, and more."
+            "src": "/photos/topics/topic7/TP07-Album-02.jpg",
+            "title": "An elderly woman carrying multiple bags on her own. Being self-reliant is valued by both young and old."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-03.jpg",
-            "title": "A visitor at Meiji shrine bows before passing through the <i>torii</i> gate. A <i>torii</i> gate is seen as an entryway into sacred space."
+            "src": "/photos/topics/topic7/TP07-Album-03.jpg",
+            "title": "An elementary school student studying on the train platform while waiting for her train. "
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-04.jpg",
-            "title": "A shrine on a small beach island (Aoshima) in Miyazaki prefecture. "
+            "src": "/photos/topics/topic7/TP07-Album-04.jpg",
+            "title": "Many students spend long hours studying after school, at libraries or <i>juku</i> (cram schools). "
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-05.jpg",
-            "title": "A man prays at a local neighborhood shrine in Chiba prefecture. "
-        },
-        { "src": "/photos/topics/topic1/TP01-Album-06.jpg", "title": "Sensoji, a popular Buddhist temple in Tokyo." },
-        {
-            "src": "/photos/topics/topic1/TP01-Album-07.jpg",
-            "title": "A child and his guardian wave incense over themselves. This is a common purification or healing ritual at Buddhist temples."
+            "src": "/photos/topics/topic7/TP07-Album-05.jpg",
+            "title": "A mom with two children on a bicycle. It is common to see moms in urban areas transporting their children by bicycle; for example, to and from daycare or preschool."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-08.jpg",
-            "title": "A young man locating his <i>omikuji</i>, or fortune-telling paper."
+            "src": "/photos/topics/topic7/TP07-Album-06.jpg",
+            "title": "Working professionals in Tokyo. It is expected that men persevere in working long hours at their companies."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-09.jpg",
-            "title": "Charms for protection and good luck called <i>omamori</i> on sale at a shrine. "
-        },
-        { "src": "/photos/topics/topic1/TP01-Album-10.jpg", "title": "A woman shops for a charm at a temple. " },
-        {
-            "src": "/photos/topics/topic1/TP01-Album-11.jpg",
-            "title": "Visitors at Meiji shrine write prayer requests on wooden tablets called <i>ema</i>."
+            "src": "/photos/topics/topic7/TP07-Album-07.jpg",
+            "title": "An office building showing employees working even late into the night."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-12.jpg",
-            "title": "A child's prayer written on a prayer tablet at a shrine. "
+            "src": "/photos/topics/topic7/TP07-Album-08.jpg",
+            "title": "A display at the Toyota Kaikan Museum showing the company policy and last wishes of Sakichi Toyoda, the founder of the Toyota Group. The first one reads, \"Always be faithful to your duties, thereby contributing to the Company and to the overall good.\""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-13.jpg",
-            "title": "An elderly woman prays at the altar of a popular temple in Tokyo."
+            "src": "/photos/topics/topic7/TP07-Album-09.jpg",
+            "title": "By working hard, people hope to be able to provide for their families and to live without worry."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-14.jpg",
-            "title": "A woman drops coins in the offering box in front of a monkey statue, which is considered a patron of safety in childbirth."
+            "src": "/photos/topics/topic7/TP07-Album-10.jpg",
+            "title": "A man at a department store enjoying ice cream after work."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-15.jpg",
-            "title": "Shrines often feature in important celebrations and rites of passage for Japanese families. "
+            "src": "/photos/topics/topic7/TP07-Album-11.jpg",
+            "title": "The Mitsukoshi flagship store in Nihombashi, the oldest and one of the finest department stores in Japan."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-16.jpg",
-            "title": "A couple takes wedding photographs at a shrine. In Japan, important life events are often celebrated at shrines."
+            "src": "/photos/topics/topic7/TP07-Album-12.jpg",
+            "title": "A customer intently trying out fountain pens at a stationery store. The quality of Japanese goods is well-known and trusted around the world."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-17.jpg",
-            "title": "<i>Shichi-go-san</i> is a festival in November celebrating children at the ages of seven, five, and three. It is often commemorated at shrines. "
+            "src": "/photos/topics/topic7/TP07-Album-13.jpg",
+            "title": "Cute figurines used to rest one's chopsticks on. There are many shops that sell <i>zakka</i> (small, miscellaneous goods) which are well-made and bring delight to shoppers without necessarily being expensive."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-18.jpg",
-            "title": "Summer festivals at shrines are often popular events for youth and young adults to attend with friends, family, or dates."
+            "src": "/photos/topics/topic7/TP07-Album-14.jpg",
+            "title": "Women lined up to enter a trendy fashion shop in Tokyo. It is common to see people willing to stand in long lines at popular shops and restaurants."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-19.jpg",
-            "title": "The <i>Bon</i> dance festival at Tsukiji Hongwanji temple. "
+            "src": "/photos/topics/topic7/TP07-Album-15.jpg",
+            "title": "Daiso is a chain of over 3,600 hundred-yen shops across the country. Shops like this, which sell practical goods for as cheap as a hundred yen, became popular after the economic bubble burst in the 1990s."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-20.jpg",
-            "title": "Festivals and community events often take place at shrines or temples."
+            "src": "/photos/topics/topic7/TP07-Album-16.jpg",
+            "title": "Two young women washing their money at Zeniarai Benten shrine in Kamakura. It is said that the money washed at this shrine will multiply."
+        },
+        {
+            "src": "/photos/topics/topic7/TP07-Album-17.jpg",
+            "title": "A woman buying a charm (<i>omamori</i>) at a temple in Tokyo. Owning an <i>omamori</i> can give people extra reassurance in their daily lives."
+        },
+        {
+            "src": "/photos/topics/topic7/TP07-Album-18.jpg",
+            "title": "Examples of <i>omamori</i>, ranging from charms to help pass exams, to make wishes come true, to give good health, good fortune, and money. "
         }
     ],
     "galleryType": "gallery",
     "blockOrder": [6, 7, 6, 6],
-    "videoSrc": "https://player.vimeo.com/video/921387464"
+    "videoSrc": "https://player.vimeo.com/video/921387464",
+    "infographic": {
+        "desktop": "/infographics/topic5/topic5-dweb.svg",
+        "tablet": "/infographics/topic5/topic5-tablet.svg",
+        "mobile": "/infographics/topic5/topic5-mweb.svg"
+    }
 }

@@ -28,87 +28,128 @@
             "/topics/social-conformity",
             "/topics/japanese-culture-and-christianity",
             "/topics/personal-evangelism"
+        ],
+        "thumbs": [
+            "/photos/topic-nav/culture/social-conformity.png",
+            "/photos/topic-nav/culture/japanese-culture-and-christianity.png",
+            "/photos/topic-nav/church/personal-evangelism.png"
         ]
     },
-    "heroPhoto": "/photos/topics/topic1/TP01-Hero.jpg",
-    "heroFocus": "20% 50%",
+    "heroPhoto": "/photos/topics/topic5/TP05-Hero.jpg",
+    "heroFocus": "80% 50%",
     "photos": [
         {
-            "src": "/photos/topics/topic1/TP01-Album-01.jpg",
-            "title": "A large crowd of visitors at a prominent shrine in Kyoto (Fushimi Inari Taisha) on New Year's Day."
+            "src": "/photos/topics/topic5/TP05-Album-01.jpg",
+            "title": "A group of three women, two in kimono, sitting under the cherry blossom trees.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-02.jpg",
-            "title": "A gate at a Shinto shrine, called <i>torii</i>. <i>Torii</i> can be found at many places in Japan: city streets, staircases, forests, rivers, fields, and more."
+            "src": "/photos/topics/topic5/TP05-Album-02.jpg",
+            "title": "Cherry blossom (sakura) season in Japan. The juxtaposition of city buildings, nature, blooming flowers, and fallen petals is a snapshot of a harmonious setting in Japan.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-03.jpg",
-            "title": "A visitor at Meiji shrine bows before passing through the <i>torii</i> gate. A <i>torii</i> gate is seen as an entryway into sacred space."
+            "src": "/photos/topics/topic5/TP05-Album-03.jpg",
+            "title": "The sakura life cycle: budding, growing, full bloom, and falling. The yearly sakura season, which only lasts about two weeks, is a metaphor for the Eastern philosophical idea that life is transient, beautiful in its fleeting nature, and cyclic.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-04.jpg",
-            "title": "A shrine on a small beach island (Aoshima) in Miyazaki prefecture. "
+            "src": "/photos/topics/topic5/TP05-Album-04.jpg",
+            "title": "A Japanese garden showing a tranquil co-existence of water, trees, and creatures.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-05.jpg",
-            "title": "A man prays at a local neighborhood shrine in Chiba prefecture. "
-        },
-        { "src": "/photos/topics/topic1/TP01-Album-06.jpg", "title": "Sensoji, a popular Buddhist temple in Tokyo." },
-        {
-            "src": "/photos/topics/topic1/TP01-Album-07.jpg",
-            "title": "A child and his guardian wave incense over themselves. This is a common purification or healing ritual at Buddhist temples."
+            "src": "/photos/topics/topic5/TP05-Album-05.jpg",
+            "title": "A modern interpretation of a traditional tea ceremony in Ureshino, Saga, set against the fields that the green tea leaves come from. The tea ceremony in its outdoor setting involves all five senses in a beautiful way.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-08.jpg",
-            "title": "A young man locating his <i>omikuji</i>, or fortune-telling paper."
+            "src": "/photos/topics/topic5/TP05-Album-06.jpg",
+            "title": "The trailhead to climb Mt. Nantai in Nikko, marked by a Shinto torii gate. This trailhead is located at the Mt. Futara Shinto shrine. Shrines or gates are often found in nature, on mountains, in forests and bamboo groves, by rivers, and more. They remind visitors to pay their respects to the gods in nature and to pray for a harmonious relationship.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-09.jpg",
-            "title": "Charms for protection and good luck called <i>omamori</i> on sale at a shrine. "
-        },
-        { "src": "/photos/topics/topic1/TP01-Album-10.jpg", "title": "A woman shops for a charm at a temple. " },
-        {
-            "src": "/photos/topics/topic1/TP01-Album-11.jpg",
-            "title": "Visitors at Meiji shrine write prayer requests on wooden tablets called <i>ema</i>."
+            "src": "/photos/topics/topic5/TP05-Album-07.jpg",
+            "title": "A man praying in front of a pair of sacred trees at Meiji shrine. A sign by the trees says that these trees are \"a symbol of happy marriage and harmonious life within the family.\"",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-12.jpg",
-            "title": "A child's prayer written on a prayer tablet at a shrine. "
+            "src": "/photos/topics/topic5/TP05-Album-08.jpg",
+            "title": "Three generations of a family celebrating shichi-go-san at Hie shrine. This ceremony celebrates the growth of a child at the ages of 3, 5, and 7. Preserving family and relational harmony is an important value in Japan.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-13.jpg",
-            "title": "An elderly woman prays at the altar of a popular temple in Tokyo."
+            "src": "/photos/topics/topic5/TP05-Album-09.jpg",
+            "title": "A man praying at Yushima shrine at the start of a new school year. Yushima shrine is dedicated to academic and scholarly achievement. Behind him are many more prayers written on wooden tablets called ema. Prayers are offered at shrines to seek favor for important needs and life events.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-14.jpg",
-            "title": "A woman drops coins in the offering box in front of a monkey statue, which is considered a patron of safety in childbirth."
+            "src": "/photos/topics/topic5/TP05-Album-10.jpg",
+            "title": "A statue of Buddha with a post that says, \"May Peace Prevail On Earth.\" Buddha is seen as a figure of peace and serenity by millions of people in Asia and around the world.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-15.jpg",
-            "title": "Shrines often feature in important celebrations and rites of passage for Japanese families. "
+            "src": "/photos/topics/topic5/TP05-Album-11.jpg",
+            "title": "The bon odori dance festival at Tsukiji Hongwanji temple. Traditionally this dance welcomes the spirits of ancestors back home during the Buddhist holiday of Obon. Today, Obon is mainly a family time, but the religious backdrop is a reminder of the co-existence of the living and the dead.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-16.jpg",
-            "title": "A couple takes wedding photographs at a shrine. In Japan, important life events are often celebrated at shrines."
+            "src": "/photos/topics/topic5/TP05-Album-12.jpg",
+            "title": "A religious complex in Nikko described as the \"Two Shrines and One Temple,\" a way of keeping Shinto and Buddhism together even after the government tried to separate the two in 1867. Other symbols of syncretism can be seen here as well.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-17.jpg",
-            "title": "<i>Shichi-go-san</i> is a festival in November celebrating children at the ages of seven, five, and three. It is often commemorated at shrines. "
+            "src": "/photos/topics/topic5/TP05-Album-13.jpg",
+            "title": "The juxtaposition of old and new at Hamarikyu gardens in Tokyo. The Tokyo metropolitan goverment has used the slogan \"old meets new\" in a tourism campaign to promote the two sides of old Tokyo and new Tokyo.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-18.jpg",
-            "title": "Summer festivals at shrines are often popular events for youth and young adults to attend with friends, family, or dates."
+            "src": "/photos/topics/topic5/TP05-Album-14.jpg",
+            "title": "A re-creation of a room on Dejima island, Nagasaki, which was a limited point of entry for Dutch foreigners when Japan was closed to the outside world. This room shows the beginning of the incorporation of East and West; Japanese style floors and windows with a Western bed and furnishings. The fusion of East and West continues today in food, language, design, public spaces, furnishings, homes, and much more.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-19.jpg",
-            "title": "The <i>Bon</i> dance festival at Tsukiji Hongwanji temple. "
+            "src": "/photos/topics/topic5/TP05-Album-15.jpg",
+            "title": "The Tamozawa Imperial Villa in Nikko, which shows the traditional value of living with nature.",
+            "alt": ""
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-20.jpg",
-            "title": "Festivals and community events often take place at shrines or temples."
+            "src": "/photos/topics/topic5/TP05-Album-16.jpg",
+            "title": "The National Stadium built for the Tokyo Olympics in 2021. After a long selection process, one of the main reasons this design was chosen was because it was harmonious with its surroundings. It incorporates wood from all of Japan's prefectures.",
+            "alt": ""
+        },
+        {
+            "src": "/photos/topics/topic5/TP05-Album-17.jpg",
+            "title": "A family taking photos during sakura season. Preserving family harmony is an important value, and things are often compartmentalized or left unsaid in order to protect those relationships. ",
+            "alt": ""
+        },
+        {
+            "src": "/photos/topics/topic5/TP05-Album-18.jpg",
+            "title": "School children on a field trip in Yokohama. Group dynamics and the need to fit in are keenly felt, even from a very young age. Some may be ostracized or bullied because they are different. This can lead to mental health issues, with some students dropping out of school, transferring, or isolating themselves at home.",
+            "alt": ""
+        },
+        {
+            "src": "/photos/topics/topic5/TP05-Album-19.jpg",
+            "title": "Co-workers spending time together after work. People may feel that they need to hold back their personal opinions and limit their self-expression in order to prioritize harmonious relationships in the workplace.",
+            "alt": ""
+        },
+        {
+            "src": "/photos/topics/topic5/TP05-Album-20.jpg",
+            "title": "Friends enjoying hanami, a tradition of picnicking under the cherry blossom trees. Much care is taken to maintain relational harmony among friends, but if things go awry, people may choose to walk away rather than to directly deal with conflict.",
+            "alt": ""
+        },
+        {
+            "src": "/photos/topics/topic5/TP05-Album-21.jpg",
+            "title": "A crowded intersection in Nagoya. Harmony with strangers and neighbors is particularly important in megacities and densely populated areas, as people commute and live in very close quarters to one another.",
+            "alt": ""
         }
     ],
     "galleryType": "gallery",
     "blockOrder": [6, 7, 6, 6],
-    "videoSrc": "https://player.vimeo.com/video/921387464"
+    "videoSrc": "https://player.vimeo.com/video/921387464",
+    "infographic": {
+        "desktop": "/infographics/topic5/topic5-dweb.svg",
+        "tablet": "/infographics/topic5/topic5-tablet.svg",
+        "mobile": "/infographics/topic5/topic5-mweb.svg"
+    }
 }
