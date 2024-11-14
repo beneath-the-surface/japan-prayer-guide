@@ -24,33 +24,27 @@
     },
     "related": {
         "labels": ["社会の同調圧力", "仕事のプレッシャー", "個人伝道"],
-        "links": ["/topics/social-conformity", "/topics/workplace-pressure", "/topics/personal-evangelism"]
+        "links": ["/topics/social-conformity", "/topics/workplace-pressure", "/topics/personal-evangelism"],
+        "thumbs": [
+            "/photos/topic-nav/culture/social-conformity.png",
+            "/photos/topic-nav/culture/workplace-pressure.png",
+            "/photos/topic-nav/church/personal-evangelism.png"
+        ]
     },
+    "heroPhoto": "/photos/topics/topic24/TP24-Hero.jpg",
+    "heroFocus": "70% 00%",
     "photos": [
-        { "src": "/photos/topics/topic19/TP00-Mosaic-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-09.jpg", "title": "ADD LATER" }
+        { "src": "/photos/topics/topic24/TP24-Carousel-01.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic24/TP24-Carousel-02.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic24/TP24-Carousel-03.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic24/TP24-Carousel-04.jpg", "title": "", "alt": "" }
     ],
-    "uncroppedPhotos": [
-        { "src": "/photos/topics/topic19/TP19-Uncropped-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-09.jpg", "title": "ADD LATER" }
-    ],
-    "galleryType": "mosaic",
+    "galleryType": "carousel",
     "blockOrder": [7, 1, 3, 9],
     "videoSrc": "https://player.vimeo.com/video/87253223?h=54bcde9d3a",
-    "heroPhoto": "/photos/topics/topic19/TP19-Hero.jpg",
-    "heroFocus": "60% 50%"
+    "infographic": {
+        "desktop": "/infographics/topic19/topic19-dweb.svg",
+        "tablet": "/infographics/topic19/topic19-tablet.svg",
+        "mobile": "/infographics/topic19/topic19-mweb.svg"
+    }
 }

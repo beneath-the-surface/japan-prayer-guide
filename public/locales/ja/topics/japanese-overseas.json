@@ -26,39 +26,34 @@
         "prayerPtsUrl": "www.google.com",
         "prayerVidUrl": "www.google.com"
     },
+    "heroPhoto": "/photos/topics/topic26/TP26-Hero.jpg",
+    "heroFocus": "50% 0%",
     "related": {
-        "labels": ["社会の同調圧力", "日常生活と信仰", "世界宣教への関わり"],
+        "labels": ["地域社会における教会", "個人伝道", "世界宣教への関わり"],
         "links": [
             "/topics/social-conformity",
             "/topics/daily-christian-life-and-faith",
             "/topics/japanese-mission-movement"
+        ],
+        "thumbs": [
+            "/photos/topic-nav/church/church-in-the-community.png",
+            "/photos/topic-nav/church/personal-evangelism.png",
+            "/photos/topic-nav/church/japanese-mission-movement.png"
         ]
     },
     "photos": [
-        { "src": "/photos/topics/topic19/TP00-Mosaic-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-09.jpg", "title": "ADD LATER" }
+        { "src": "/photos/topics/topic26/TP26-Carousel-01.jpg", "title": "" },
+        { "src": "/photos/topics/topic26/TP26-Carousel-02.jpg", "title": "" },
+        { "src": "/photos/topics/topic26/TP26-Carousel-03.jpg", "title": "" },
+        { "src": "/photos/topics/topic26/TP26-Carousel-04.jpg", "title": "" },
+        { "src": "/photos/topics/topic26/TP26-Carousel-05.jpg", "title": "" }
     ],
-    "uncroppedPhotos": [
-        { "src": "/photos/topics/topic19/TP19-Uncropped-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-09.jpg", "title": "ADD LATER" }
-    ],
-    "galleryType": "mosaic",
+    "galleryType": "carousel",
     "blockOrder": [7, 1, 3, 9],
     "videoSrc": "https://player.vimeo.com/video/87253223?h=54bcde9d3a",
-    "heroPhoto": "/photos/topics/topic19/TP19-Hero.jpg",
-    "heroFocus": "60% 50%"
+    "infographic": {
+        "desktop": "/infographics/topic19/topic19-dweb.svg",
+        "tablet": "/infographics/topic19/topic19-tablet.svg",
+        "mobile": "/infographics/topic19/topic19-mweb.svg"
+    }
 }
