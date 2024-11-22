@@ -28,7 +28,7 @@ const Downloads: React.FC = () => {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <main id="about">
+            <main id="about" role="main">
                 <ToggleHeader />
 
                 <Container className="w-100 d-flex flex-column align-items-center justify-content-center gap-4 sorryContainer text-center">

@@ -53,6 +53,7 @@ export interface OrderRegionType {
 const Home = ({ featuredTopicRef }: { featuredTopicRef: string }) => {
     const { t, i18n } = useTranslation("home")
     const { t: featuredTranslation } = useTranslation(featuredTopicRef)
+    const webpageTitle = t("webpageTitle", "Beneath the Surface")
 
     //const downloadList: string[] = homePageTranslation("downloadList", { returnObjects: true })
 
@@ -68,12 +69,15 @@ const Home = ({ featuredTopicRef }: { featuredTopicRef: string }) => {
     return (
         <div>
             <Head>
-                <title>{t("webpageTitle")}</title>
+                <title>{webpageTitle}</title>
                 <meta name="description" content="Japan prayer guide" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <meta property="og:title" content={webpageTitle} />
+                <meta property="og:description" content="30 ways to pray for Japan" />
+                <meta property="og:image" content={bannerHeroHighRes.src} />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <main id="home">
+            <main id="home" role="main">
                 <ToggleHeader />
 
                 {/* Hero banner section */}

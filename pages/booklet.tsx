@@ -145,7 +145,7 @@ const Booklet: React.FC = () => {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <ToggleHeader />
-            <main id="booklet">
+            <main id="booklet" role="main">
                 <div className="w-100 book-description position-relative" style={{ marginTop: "60px" }}>
                     <Container>
                         <Row xs={1} sm={1} md={1} xl={2}>

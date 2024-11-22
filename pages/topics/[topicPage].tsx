@@ -96,7 +96,7 @@ export default function TopicPage({ localeRef }: { localeRef: string }) {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <main>
+            <main role="main">
                 {/* Header Component */}
                 <ToggleHeader hideShadow={true} />
 
