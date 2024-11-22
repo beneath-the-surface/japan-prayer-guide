@@ -30,11 +30,11 @@ exports[`Topic Downloadables Snapshot test 1`] = `
           class="container"
         >
           <div
-            class="g-3 d-md-flex d-block row row-cols-md-3 row-cols-sm-1"
+            class="grid-row g-3 d-md-flex d-block undefined row row-cols-md-3 row-cols-sm-1"
             data-testid="topic-downloadables-links"
           >
             <div
-              class="col"
+              class="resource-card col"
             >
               <a
                 aria-disabled="false"
@@ -77,7 +77,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
               </a>
             </div>
             <div
-              class="col"
+              class="resource-card col"
             >
               <a
                 aria-disabled="false"
@@ -120,7 +120,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
               </a>
             </div>
             <div
-              class="col"
+              class="resource-card col"
             >
               <a
                 aria-disabled="false"
@@ -163,7 +163,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
               </a>
             </div>
             <div
-              class="col"
+              class="resource-card col"
             >
               <a
                 aria-disabled="false"
@@ -200,7 +200,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
               </a>
             </div>
             <div
-              class="col"
+              class="resource-card col"
             >
               <a
                 aria-disabled="false"
@@ -243,7 +243,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
               </a>
             </div>
             <div
-              class="col"
+              class="resource-card col"
             >
               <a
                 aria-disabled="false"
@@ -329,11 +329,11 @@ exports[`Topic Downloadables Snapshot test 1`] = `
         class="container"
       >
         <div
-          class="g-3 d-md-flex d-block row row-cols-md-3 row-cols-sm-1"
+          class="grid-row g-3 d-md-flex d-block undefined row row-cols-md-3 row-cols-sm-1"
           data-testid="topic-downloadables-links"
         >
           <div
-            class="col"
+            class="resource-card col"
           >
             <a
               aria-disabled="false"
@@ -376,7 +376,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
             </a>
           </div>
           <div
-            class="col"
+            class="resource-card col"
           >
             <a
               aria-disabled="false"
@@ -419,7 +419,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
             </a>
           </div>
           <div
-            class="col"
+            class="resource-card col"
           >
             <a
               aria-disabled="false"
@@ -462,7 +462,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
             </a>
           </div>
           <div
-            class="col"
+            class="resource-card col"
           >
             <a
               aria-disabled="false"
@@ -499,7 +499,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
             </a>
           </div>
           <div
-            class="col"
+            class="resource-card col"
           >
             <a
               aria-disabled="false"
@@ -542,7 +542,7 @@ exports[`Topic Downloadables Snapshot test 1`] = `
             </a>
           </div>
           <div
-            class="col"
+            class="resource-card col"
           >
             <a
               aria-disabled="false"

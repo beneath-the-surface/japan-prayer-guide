@@ -1,5 +1,61 @@
 {
+    "enabled": true,
     "webpageTitle": "Resources",
+    "heroHeader": "Resources",
+    "heroSubtitle": [
+        "The design, text, and media assets on our website are available to download or stream. We've also prepared a few other helpful tools like presentation slides and PDF files from the booklet.",
+        "Please note that we have applied a Creative Commons BY-NC-ND 4.0 license to all our assets. This means that we welcome you to freely use and redistribute this material in any medium or format, with attribution to this website. However, these assets cannot be adapted or built upon without written permission from OMF Japan or Pioneers Japan, nor can they be used for commercial purposes."
+    ],
+    "copyrightText": "This work is licensed under a <0>LICENSE LINK TEXT</0>",
+    "byMediaTypeAltText": "A picture of media types",
+    "byMediaTypeHeading": "Download by media type",
+    "byMediaTypeDescriptions": ["We have a total of 6 media types."],
+    "byMediaUrls": {
+        "infographicsUrl": "www.google.com",
+        "pdfUrl": "www.google.com",
+        "photographyUrl": "",
+        "prayerPtsUrl": "www.google.com",
+        "prayerVidUrl": "www.google.com",
+        "slidesUrl": ""
+    },
+    "switchLanguage": "To view Japanese content visit <0>HERE</0>",
+    "byTopicAltText": "A picture of topics",
+    "byTopicHeading": "Download by topic",
+    "byTopicDescriptions": [
+        "There are two ways to download our resources, by topic or by media type. Please note that the links below will take you to an external site (Box, Vimeo) to access the files. ",
+        "You can also download a simple PDF here of the references that appear on our website."
+    ],
+    "topicBlurb": [
+        "There are two ways to download our resources, by topic or by media type. Please note that the links below will take you to an external site (Box, Vimeo) to access the files.",
+        "You can also download a simple PDF here of the references that appear on our website."
+    ],
+    "byTopicBtn": "Download by topic",
+
+    "downloadSectionTitle": "How do I download?",
+    "downloadBlurb": "View tutorial here PDF document",
+    "tutAltText1": "",
+    "tut1Heading": " 1. Step up",
+    "tut1Descriptions": [
+        "There are two ways to download our resources, by topic or by media type. Please note that the links below will take you to an external site (Box, Vimeo) to access the files. ",
+        "You can also download a simple PDF here of the references that appear on our website."
+    ],
+    "tutAltText2": "",
+    "tut2Heading": " 2. hjkjhkjhkjhk",
+    "tut2Descriptions": [
+        "There are two ways to download our resources, by topic or by media type. Please note that the links below will take you to an external site (Box, Vimeo) to access the files. ",
+        "You can also download a simple PDF here of the references that appear on our website."
+    ],
+    "tutAltText3": "",
+    "tut3Heading": " 3. hjkjhkjhkjhk",
+    "tut3Descriptions": [
+        "There are two ways to download our resources, by topic or by media type. Please note that the links below will take you to an external site (Box, Vimeo) to access the files. ",
+        "You can also download a simple PDF here of the references that appear on our website."
+    ],
+
+    "bookletImgAlt": "background picture of calm waves",
+    "bookletRedirectHeading": "Get the prayer booklet",
+    "bookletRedirectButtonText": "Order here",
+
     "title": "Coming soon.",
     "message": "Full website launch in 2025.",
     "back": "Return to the home page"
