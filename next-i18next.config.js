@@ -37,7 +37,6 @@ module.exports = {
     /** To avoid issues when deploying to some paas (vercel...) */
     // localePath: typeof window === "undefined" ? require("path").resolve("./public/locales") : "/locales",
     reloadOnPrerender: false,
-    cache: '',
     backend: {
         loadPath: `${BASE_URL}/api/locales/{{lng}}/{{ns}}.json`,
         request: async function (
@@ -55,6 +54,7 @@ module.exports = {
                 callback(null, { status: 200, data: await getTranslations(url) })
             }
         },
+        reloadInterval: 1000 * 10
     },
     use: isBrowser ? [] : [HttpBackend],
     // use: [{ back}],
