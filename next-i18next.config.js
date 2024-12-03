@@ -36,7 +36,8 @@ module.exports = {
     partialBundledLanguages: isBrowser && true,
     /** To avoid issues when deploying to some paas (vercel...) */
     // localePath: typeof window === "undefined" ? require("path").resolve("./public/locales") : "/locales",
-    reloadOnPrerender: true,
+    reloadOnPrerender: false,
+    cache: '',
     backend: {
         loadPath: `${BASE_URL}/api/locales/{{lng}}/{{ns}}.json`,
         request: async function (
