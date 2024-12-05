@@ -6,7 +6,7 @@ const { unstable_cache } = require("next/cache")
 
 const isBrowser = typeof window !== "undefined"
 const isDev = process.env.NODE_ENV === "development"
-const BASE_URL = isDev ? "http://localhost:3000" : "https://japan-prayer-guide.netlify.app"
+const BASE_URL = isDev ? "http://localhost:3000" : "https://japan-prayer-guide-beneath-the-surface.vercel.app"
 
 const getTranslations = unstable_cache(
     async (url) => {
@@ -54,7 +54,7 @@ module.exports = {
                 callback(null, { status: 200, data: await getTranslations(url) })
             }
         },
-        reloadInterval: 1000 * 10
+        reloadInterval: 1000 * 60
     },
     use: isBrowser ? [] : [HttpBackend],
     // use: [{ back}],
