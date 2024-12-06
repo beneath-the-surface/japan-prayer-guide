@@ -42,6 +42,8 @@ import Image, { StaticImageData } from "next/image"
 import NextImage from "../components/common/NextImage/NextImage"
 import coverEN from "../public/photos/home/hp_cover-en.jpg"
 import coverJA from "../public/photos/home/hp_cover-ja.jpg"
+import bookGifEN from "../public/photos/booklet/BOOK_GIF-en.gif"
+import bookGifJA from "../public/photos/booklet/BOOK_GIF-ja.gif"
 import nextI18nextConfig from "../next-i18next.config"
 
 export async function getServerSideProps({ locale }: any) {
@@ -182,12 +184,7 @@ const Booklet: React.FC = () => {
                     <Image
                         className="w-100 px-10"
                         alt="physical booklet preview"
-                        unoptimized
-                        src={
-                            i18n.language === "en"
-                                ? "/photos/booklet/BOOK_GIF-en.gif"
-                                : "/photos/booklet/BOOK_GIF-ja.gif"
-                        }
+                        src={i18n.language === "en" ? bookGifEN : bookGifJA}
                     />
                 </Container>
                 <OrderBook />
