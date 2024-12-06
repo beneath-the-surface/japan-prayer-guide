@@ -6,7 +6,7 @@ const { unstable_cache } = require("next/cache")
 
 const isBrowser = typeof window !== "undefined"
 const isDev = process.env.NODE_ENV === "development"
-const BASE_URL = isDev ? "http://localhost:3000" : "https://d3bmwz0l8kbz95.cloudfront.net"
+const BASE_URL = isDev ? "http://localhost:3000" : "http://localhost:3000"
 
 /**
  * @type {import('next-i18next').UserConfig}
