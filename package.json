@@ -7,7 +7,7 @@
     "dev": "NODE_OPTIONS='--require reflect-metadata' next dev",
     "format": "prettier --write '**/*.{ts,tsx,jsx}'",
     "lint": "NODE_OPTIONS='--require reflect-metadata' next lint",
-    "start": "NODE_OPTIONS='--require reflect-metadata' next start",
+    "start": "NODE_OPTIONS='--require reflect-metadata' next start -p 80",
     "test": "jest",
     "updateSnapshot": "jest --updateSnapshot"
   },
