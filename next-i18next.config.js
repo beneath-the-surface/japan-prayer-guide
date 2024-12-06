@@ -6,20 +6,7 @@ const { unstable_cache } = require("next/cache")
 
 const isBrowser = typeof window !== "undefined"
 const isDev = process.env.NODE_ENV === "development"
-const BASE_URL = isDev ? "http://localhost:3000" : "https://japan-prayer-guide-beneath-the-surface.vercel.app"
-
-const getTranslations = unstable_cache(
-    async (url) => {
-        try {
-            const response = await fetch(url)
-            return response.json()
-        } catch (error) {
-            return {}
-        }
-    },
-    ["translations"],
-    { tags: ["translations"] },
-)
+const BASE_URL = isDev ? "http://localhost:3000" : "https://d3bmwz0l8kbz95.cloudfront.net"
 
 /**
  * @type {import('next-i18next').UserConfig}
@@ -36,25 +23,9 @@ module.exports = {
     partialBundledLanguages: isBrowser && true,
     /** To avoid issues when deploying to some paas (vercel...) */
     // localePath: typeof window === "undefined" ? require("path").resolve("./public/locales") : "/locales",
-    reloadOnPrerender: false,
+    reloadOnPrerender: true,
     backend: {
-        loadPath: `${BASE_URL}/api/locales/{{lng}}/{{ns}}.json`,
-        request: async function (
-            /** @type {any} */ _options,
-            /** @type {any} */ url,
-            /** @type {any} */ _payload,
-            /** @type {(arg0: null, arg1: { status: number; data: any; }) => void} */ callback,
-        ) {
-            if (isBrowser) {
-                const response = await fetch(url, {
-                    next: { tags: ["translations"] },
-                })
-                return response.json()
-            } else {
-                callback(null, { status: 200, data: await getTranslations(url) })
-            }
-        },
-        reloadInterval: 1000 * 60
+        loadPath: `${BASE_URL}/api/locales/{{lng}}/{{ns}}.json`
     },
     use: isBrowser ? [] : [HttpBackend],
     // use: [{ back}],
