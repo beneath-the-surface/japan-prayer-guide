@@ -15,5 +15,5 @@ COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 RUN npm run build
 
-EXPOSE 3000
+EXPOSE 80
 CMD ["npm", "run", "start"]
