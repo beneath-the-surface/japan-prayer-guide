@@ -5,7 +5,8 @@ const HttpBackend = require("i18next-http-backend")
 const { unstable_cache } = require("next/cache")
 
 const isBrowser = typeof window !== "undefined"
-const BASE_URL = "http://localhost:3000"
+const isDev = process.env.NODE_ENV === "development"
+const BASE_URL = isDev ? "http://localhost:3000" : "https://japan-prayer-guide-beneath-the-surface.vercel.app"
 
 const getTranslations = unstable_cache(
     async (url) => {
