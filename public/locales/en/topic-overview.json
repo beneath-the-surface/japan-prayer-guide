@@ -25,9 +25,9 @@
             "disabled": false
         },
         { "label": "Immigration and foreign nationals", "link": "immigration-and-foreign-nationals", "disabled": false },
-        { "label": "Natural disasters", "link": "natural-disasters", "disabled": true },
-        { "label": "Technology and media", "link": "technology-and-media", "disabled": true },
-        { "label": "Workplace pressure", "link": "workplace-pressure", "disabled": true },
+        { "label": "Natural disasters", "link": "natural-disasters", "disabled": false },
+        { "label": "Technology and media", "link": "technology-and-media", "disabled": false },
+        { "label": "Workplace pressure", "link": "workplace-pressure", "disabled": false },
         { "label": "Family life", "link": "family-life", "disabled": true },
         { "label": "Youth and young adults", "link": "youth-and-young-adults", "disabled": false }
     ],
@@ -37,7 +37,7 @@
         { "label": "Church leadership", "link": "church-leadership", "disabled": false },
         { "label": "Church in the community", "link": "church-in-the-community", "disabled": false },
         { "label": "Creative ways of ministry", "link": "creative-ways-of-ministry", "disabled": true },
-        { "label": "Christianity in rural areas", "link": "christianity-in-rural-areas", "disabled": true },
+        { "label": "Christianity in rural areas", "link": "christianity-in-rural-areas", "disabled": false },
         { "label": "Personal evangelism", "link": "personal-evangelism", "disabled": true },
         { "label": "Faith in the workplace", "link": "faith-in-the-workplace", "disabled": false },
         { "label": "Daily Christian life and faith", "link": "daily-christian-life-and-faith", "disabled": true },
