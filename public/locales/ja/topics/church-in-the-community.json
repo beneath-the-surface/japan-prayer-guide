@@ -24,33 +24,47 @@
     },
     "related": {
         "labels": ["日本人のキリスト教観", "和を重んじる文化", "創造的なミニストリー"],
-        "links": ["/topics/japanese-views-of-christianity", "/topics/harmony", "/topics/creative-ways-of-ministry"]
+        "links": ["/topics/japanese-views-of-christianity", "/topics/harmony", "/topics/creative-ways-of-ministry"],
+        "thumbs": [
+            "/photos/topic-nav/culture/japanese-views-of-christianity.png",
+            "/photos/topic-nav/culture/harmony.png",
+            "/photos/topic-nav/church/creative-ways-of-ministry.png"
+        ]
     },
+    "heroPhoto": "/photos/topics/topic20/TP20-Hero.jpg",
+    "heroFocus": "50% 0%",
     "photos": [
-        { "src": "/photos/topics/topic19/TP00-Mosaic-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-09.jpg", "title": "ADD LATER" }
+        { "src": "/photos/topics/topic20/TP20-Album-01.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-02.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-03.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-04.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-05.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-06.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-07.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-08.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-09.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-10.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-11.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-12.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-13.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-14.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-15.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-16.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-17.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-18.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-19.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-20.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-21.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-22.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-23.jpg", "title": "", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-24.jpg", "title": "", "alt": "" }
     ],
-    "uncroppedPhotos": [
-        { "src": "/photos/topics/topic19/TP19-Uncropped-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-09.jpg", "title": "ADD LATER" }
-    ],
-    "galleryType": "mosaic",
+    "galleryType": "gallery",
     "blockOrder": [7, 1, 3, 9],
     "videoSrc": "https://player.vimeo.com/video/87253223?h=54bcde9d3a",
-    "heroPhoto": "/photos/topics/topic19/TP19-Hero.jpg",
-    "heroFocus": "60% 50%"
+    "infographic": {
+        "desktop": "/infographics/topic19/topic19-dweb.svg",
+        "tablet": "/infographics/topic19/topic19-tablet.svg",
+        "mobile": "/infographics/topic19/topic19-mweb.svg"
+    }
 }

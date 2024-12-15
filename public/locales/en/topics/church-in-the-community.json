@@ -24,33 +24,47 @@
     },
     "related": {
         "labels": ["Japanese views of Christianity", "Harmony", "Creative ways of ministry"],
-        "links": ["/topics/japanese-views-of-christianity", "/topics/harmony", "/topics/creative-ways-of-ministry"]
+        "links": ["/topics/japanese-views-of-christianity", "/topics/harmony", "/topics/creative-ways-of-ministry"],
+        "thumbs": [
+            "/photos/topic-nav/culture/japanese-views-of-christianity.png",
+            "/photos/topic-nav/culture/harmony.png",
+            "/photos/topic-nav/church/creative-ways-of-ministry.png"
+        ]
     },
+    "heroPhoto": "/photos/topics/topic20/TP20-Hero.jpg",
+    "heroFocus": "50% 0%",
     "photos": [
-        { "src": "/photos/topics/topic19/TP00-Mosaic-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP00-Mosaic-09.jpg", "title": "ADD LATER" }
-    ],
-    "uncroppedPhotos": [
-        { "src": "/photos/topics/topic19/TP19-Uncropped-01.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-02.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-03.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-04.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-05.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-06.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-07.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-08.jpg", "title": "ADD LATER" },
-        { "src": "/photos/topics/topic19/TP19-Uncropped-09.jpg", "title": "ADD LATER" }
-    ],
-    "galleryType": "mosaic",
+        { "src": "/photos/topics/topic20/TP20-Album-01.jpg", "title": "A mom out with her children in a local suburb.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-02.jpg", "title": "A man reading at a neighborhood park.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-03.jpg", "title": "High school students heading home.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-04.jpg", "title": "Children playing in a local playground.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-05.jpg", "title": "A church that rents a house in a Tokyo suburb as their place of worship. Neighborhood children can use the church playground freely.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-06.jpg", "title": "Sunday worship service of a church that meets in a suburb.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-07.jpg", "title": "Young men playing basketball in a city park.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-08.jpg", "title": "Friends meeting for coffee in a city cafe.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-09.jpg", "title": "A young family taking photos and enjoying time out in the city.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-10.jpg", "title": "Businessmen chatting on the sidewalk after work.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-11.jpg", "title": "A city church that meets in the basement underneath a liquor store. City churches often rent rather than owning their own building.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-12.jpg", "title": "A city church that rents space on Sundays in a movie theater at a shopping mall.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-13.jpg", "title": "Young men in a dance competition at a game center.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-14.jpg", "title": "A shopkeeper in front of her store.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-15.jpg", "title": "A man seeking customers for a hotel in Kabuki-cho, an adult entertainment area in Tokyo.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-16.jpg", "title": "A space in the shade with tents for the homeless.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-17.jpg", "title": "A church building in a <i>shoutengai</i>, a traditional shopping street.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-18.jpg", "title": "A church that meets in a neighborhood cafe. It can be easier initially for someone to attend a service in a public place rather than go into a church building.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-19.jpg", "title": "A man and his two grandchildren at a train station in the northern island of Hokkaido.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-20.jpg", "title": "An outdoor community concert.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-21.jpg", "title": "A family playing together at a park in Kagoshima.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-22.jpg", "title": "A man and his granddaughter on a ferry ride to Nagasaki.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-23.jpg", "title": "A church surrounded by deep snow in a small town in Hokkaido. Some northern parts of Japan get heavy snowfall every winter.", "alt": "" },
+        { "src": "/photos/topics/topic20/TP20-Album-24.jpg", "title": "A Sunday service at a local church in Fukuoka.", "alt": "" }
+      ],
+    "galleryType": "gallery",
     "blockOrder": [7, 1, 3, 9],
     "videoSrc": "https://player.vimeo.com/video/87253223?h=54bcde9d3a",
-    "heroPhoto": "/photos/topics/topic19/TP19-Hero.jpg",
-    "heroFocus": "60% 50%"
+    "infographic": {
+        "desktop": "/infographics/topic19/topic19-dweb.svg",
+        "tablet": "/infographics/topic19/topic19-tablet.svg",
+        "mobile": "/infographics/topic19/topic19-mweb.svg"
+    }
 }

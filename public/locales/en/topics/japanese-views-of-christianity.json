@@ -25,87 +25,115 @@
             "/topics/popular-religious-practices",
             "/topics/japanese-culture-and-christianity",
             "/topics/church-in-the-community"
+        ],
+        "thumbs": [
+            "/photos/topic-nav/culture/popular-religious-practices.png",
+            "/photos/topic-nav/culture/japanese-culture-and-christianity.png",
+            "/photos/topic-nav/church/church-in-the-community.png"
         ]
     },
-    "heroPhoto": "/photos/topics/topic1/TP01-Hero.jpg",
-    "heroFocus": "20% 50%",
+    "heroPhoto": "/photos/topics/topic2/TP02-Hero.jpg",
+    "heroFocus": "50% 0%",
     "photos": [
         {
-            "src": "/photos/topics/topic1/TP01-Album-01.jpg",
-            "title": "A large crowd of visitors at a prominent shrine in Kyoto (Fushimi Inari Taisha) on New Year's Day."
+            "src": "/photos/topics/topic2/TP02-Album-01.jpg",
+            "title": "A university chapel in Tokyo. It's not uncommon for churches to have a traditional Western layout and solemn atmosphere. While some appreciate this, others might find it too formal or somber."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-02.jpg",
-            "title": "A gate at a Shinto shrine, called <i>torii</i>. <i>Torii</i> can be found at many places in Japan: city streets, staircases, forests, rivers, fields, and more."
+            "src": "/photos/topics/topic2/TP02-Album-02.jpg",
+            "title": "A pulpit at a historical church in Yokohama. People may have an image of Christian preaching or sermons as being serious or strict."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-03.jpg",
-            "title": "A visitor at Meiji shrine bows before passing through the <i>torii</i> gate. A <i>torii</i> gate is seen as an entryway into sacred space."
+            "src": "/photos/topics/topic2/TP02-Album-03.jpg",
+            "title": "A Japanese Bible and hymnal. The heftiness of the Bible may seem overwhelming to new Christians and even to some who are more mature."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-04.jpg",
-            "title": "A shrine on a small beach island (Aoshima) in Miyazaki prefecture. "
+            "src": "/photos/topics/topic2/TP02-Album-04.jpg",
+            "title": "A statue of Francis Xavier, the first known missionary to Japan. He was a Portuguese Jesuit missionary who arrived in Kagoshima in 1549. Japanese students learn about Xavier in school, and so, may have some knowledge about the beginnings of Christianity in Japan."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-05.jpg",
-            "title": "A man prays at a local neighborhood shrine in Chiba prefecture. "
-        },
-        { "src": "/photos/topics/topic1/TP01-Album-06.jpg", "title": "Sensoji, a popular Buddhist temple in Tokyo." },
-        {
-            "src": "/photos/topics/topic1/TP01-Album-07.jpg",
-            "title": "A child and his guardian wave incense over themselves. This is a common purification or healing ritual at Buddhist temples."
+            "src": "/photos/topics/topic2/TP02-Album-05.jpg",
+            "title": "A statue of Shiro Amakusa, the teenage Christian leader of the Shimabara rebellion in 1637. This rebellion is described as an uprising of Christian peasants who opposed the shogunate's extreme tax policies and prohibitions against Christianity. Their defeat led to stricter prohibitions against Christianity and to over 200 years of national isolation starting in 1639."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-08.jpg",
-            "title": "A young man locating his <i>omikuji</i>, or fortune-telling paper."
+            "src": "/photos/topics/topic2/TP02-Album-06.jpg",
+            "title": "A close-up of the Twenty-Six Martyrs Monument in Nagasaki. This monument memorializes 20 Japanese believers and 6 foreign Catholic priests who were marched over 800 kilometers from Kyoto to Nagasaki to be crucified."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-09.jpg",
-            "title": "Charms for protection and good luck called <i>omamori</i> on sale at a shrine. "
-        },
-        { "src": "/photos/topics/topic1/TP01-Album-10.jpg", "title": "A woman shops for a charm at a temple. " },
-        {
-            "src": "/photos/topics/topic1/TP01-Album-11.jpg",
-            "title": "Visitors at Meiji shrine write prayer requests on wooden tablets called <i>ema</i>."
+            "src": "/photos/topics/topic2/TP02-Album-07.jpg",
+            "title": "The Twenty-Six Martyrs Monument in Nagasaki. There are many other sites in Nagasaki and throughout Kyushu related to the suffering of early Christians in Japan."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-12.jpg",
-            "title": "A child's prayer written on a prayer tablet at a shrine. "
+            "src": "/photos/topics/topic2/TP02-Album-08.jpg",
+            "title": "Stories of the early Jesuit priests and Christians were further popularized through Shusaku Endo's historical fiction novel, <i>Silence</i>. Endo was a prolific writer in Japan, and <i>Silence</i> was most recently adapted into a movie by Martin Scorsese in 2016."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-13.jpg",
-            "title": "An elderly woman prays at the altar of a popular temple in Tokyo."
+            "src": "/photos/topics/topic2/TP02-Album-09.jpg",
+            "title": "A memorial in Yokohama to James Hepburn, an influential Protestant missionary in the mid 1800s. Hepburn was also a physician who created the first Japanese-English dictionary, popularized the romaji alphabet, was part of the translation team for the Japanese Bible, and helped to start churches and schools."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-14.jpg",
-            "title": "A woman drops coins in the offering box in front of a monkey statue, which is considered a patron of safety in childbirth."
+            "src": "/photos/topics/topic2/TP02-Album-10.jpg",
+            "title": "Protestant missionaries in the 1800s were known for their societal contributions including schools like this one, Aoyama Gakuin University in Tokyo. Aoyama Gakuin was originally founded in 1874 by Methodist Episcopalian missionaries."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-15.jpg",
-            "title": "Shrines often feature in important celebrations and rites of passage for Japanese families. "
+            "src": "/photos/topics/topic2/TP02-Album-11.jpg",
+            "title": "Protestant missionaries in the 1800s were also known for starting hospitals. St. Luke's International Hospital in Tokyo was founded by American Episcopalian missionaries in 1901. "
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-16.jpg",
-            "title": "A couple takes wedding photographs at a shrine. In Japan, important life events are often celebrated at shrines."
+            "src": "/photos/topics/topic2/TP02-Album-12.jpg",
+            "title": "A missionary involved in ministry to the homeless community. Today, Christians continue to known for their acts of service and kindness in the community and seek to show the love of Christ through both word and deed. Photo by Alex Hyou. Used with permission."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-17.jpg",
-            "title": "<i>Shichi-go-san</i> is a festival in November celebrating children at the ages of seven, five, and three. It is often commemorated at shrines. "
+            "src": "/photos/topics/topic2/TP02-Album-13.jpg",
+            "title": "Volunteers from a Christian disaster relief network helping with cleanup from the 2024 Noto peninsula earthquake in Ishikawa. Photo used with permission from Noto Help."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-18.jpg",
-            "title": "Summer festivals at shrines are often popular events for youth and young adults to attend with friends, family, or dates."
+            "src": "/photos/topics/topic2/TP02-Album-14.jpg",
+            "title": "Many people have positive impressions of missionaries in Japan as being friendly, outgoing, and easy to confide in."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-19.jpg",
-            "title": "The <i>Bon</i> dance festival at Tsukiji Hongwanji temple. "
+            "src": "/photos/topics/topic2/TP02-Album-15.jpg",
+            "title": "Gospel choirs became popular in the early 1990s through the Sister Act movies. There are choirs across Japan that sing Christian gospel songs in English, but most people who participate in them are not Christian."
         },
         {
-            "src": "/photos/topics/topic1/TP01-Album-20.jpg",
-            "title": "Festivals and community events often take place at shrines or temples."
+            "src": "/photos/topics/topic2/TP02-Album-16.jpg",
+            "title": "A gospel choir that meets in a local church in Tokyo. The woman who leads the choir is a Christian, but most of the people in the choir are not."
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-17.jpg",
+            "title": "A famous novel called <i>Shiokari Pass</i> based on the true story of a Christian railway employee. This book was written by Ayako Miura, a prolific Japanese writer known for her Christian faith."
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-18.jpg",
+            "title": "The location of the actual Shiokari train station in Hokkaido that is featured in Ayako Miura's novel <i>Shiokari Pass</i>."
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-19.jpg",
+            "title": "A local church group singing Christmas carols near a train station. Christmas is the main holiday associated with Christianity in Japan. Many Japanese people are more open to attending a church event or service during this time. "
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-20.jpg",
+            "title": "Christmas in Japan is most commonly celebrated with friends or a romantic partner. Common elements include illuminated streets and trees, images of Santa Claus, and eating Kentucky Fried Chicken and strawberry shortcake. "
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-21.jpg",
+            "title": "A manga series featuring Jesus and Buddha as roommates living together in Tokyo. It has been an ongoing monthly serial since 2006."
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-22.jpg",
+            "title": "A shop window displaying wedding dresses. \"Christian\" weddings are popular in Japan. By this, people usually mean a Western style ceremony with the bride in a white wedding dress."
+        },
+        {
+            "src": "/photos/topics/topic2/TP02-Album-23.jpg",
+            "title": "Some buildings that look like churches or cathedrals are actually commercial wedding venues that offer \"Christian\" weddings officiated by a Caucasian person in the role of a minister. Neither the bride or groom, nor even the officiant, need to have Christian faith."
         }
     ],
     "galleryType": "gallery",
     "blockOrder": [6, 7, 6, 6],
-    "videoSrc": "https://player.vimeo.com/video/921387464"
+    "videoSrc": "https://player.vimeo.com/video/921387464",
+    "infographic": {
+        "desktop": "/infographics/topic5/topic5-dweb.svg",
+        "tablet": "/infographics/topic5/topic5-tablet.svg",
+        "mobile": "/infographics/topic5/topic5-mweb.svg"
+    }
 }
